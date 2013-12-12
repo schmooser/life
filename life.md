@@ -5,7 +5,7 @@
 - 1988-05/1991 Kindergarten
 - 09/1991-05/2001 School, Saratov, Russia
 - 09/2001-05/2006 University - [SSU](http://sgu.ru), Saratov, Russia - physicist
-- 01/09/2003 First computer
+- 01/09/2001 First computer
 - 09/2006-12/2008 Postgraduate - SSU, Saratov, Russia - radiophysicist
 - 12/12/2008 - PhD at radiophysics
 - 06/2007-10/2009 - First job - SQL developer at SaratovMobile (GSM-operator) - Saratov, Russia
