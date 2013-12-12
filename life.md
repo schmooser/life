@@ -9,7 +9,7 @@
 - 09/2006-12/2008 Postgraduate - SSU, Saratov, Russia - radiophysicist
 - 12/12/2008 - PhD at radiophysics
 - 06/2007-10/2009 - First job - SQL developer at SaratovMobile (GSM-operator) - Saratov, Russia
-- 11/2009-06/2011 - PL/SQL developer at [Rostelekom](http://rt.ru) (Regional GSM-operator) - Nizhny Novgorod, Russia
+- 11/2009-06/2011 - PL/SQL developer at [Rostelecom](http://www.rostelecom.ru/en/about/info/) (Regional GSM-operator) - Nizhny Novgorod, Russia
 - 07/2011-~ - PL/SQL and ETL, DWH developer at [Alfa-Bank](http://alfabank.ru) - Moscow, Russia
 - 11/2011 - Vacation at Berlin
 - 04/2012 - Vacation at Berlin, Hamburg, Amsterdam and Cologne
