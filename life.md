@@ -6,6 +6,10 @@
 - 09/1991-05/2001 School, Saratov, Russia
 - 09/2001-05/2006 University - [SSU](http://sgu.ru), Saratov, Russia - physicist
 - 01/09/2001 First computer
+- 05/2004 Scientific conference at Moscow, Russia
+- 05/2005 Scientific conference at Moscow, Russia
+- 09/2005-05/2006 Presidential scolarship
+- 06/2006 Scientific conference at Dresden, Germany
 - 09/2006-12/2008 Postgraduate - SSU, Saratov, Russia - radiophysicist
 - 15/12/2006 First DSLR - Nikon D50
 - 12/12/2008 PhD at radiophysics
