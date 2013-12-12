@@ -11,6 +11,7 @@
 - 06/2007-10/2009 - First job - SQL developer at SaratovMobile (GSM-operator) - Saratov, Russia
 - 04/2009-09/2011 - First car (LADA-2114)
 - 11/2009-06/2011 - PL/SQL developer at [Rostelecom](http://www.rostelecom.ru/en/about/info/) (Regional GSM-operator) - Nizhny Novgorod, Russia
+- 06/2010-~ - Relationship with [@Nadi_ia](http://twitter.com/Nadi_ia)
 - 08/2010 - Vacation at Odessa, Ukraine
 - 05/2011 - Vacation at Hurgada, Egypt
 - 07/2011-~ - PL/SQL, ETL and DWH developer at [Alfa-Bank](http://alfabank.ru) - Moscow, Russia
