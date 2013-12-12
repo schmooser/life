@@ -8,7 +8,8 @@
 - 01/09/2001 First computer
 - 05/2004 Scientific conference at Moscow, Russia
 - 05/2005 Scientific conference at Moscow, Russia
-- 09/2005-05/2006 Presidential scolarship
+- 09/2005-05/2006 Presidential scholarship
+- 09/2005-12/2005 [First database application](http://nonlin.sgu.ru/db/viewall.php?lang=en&type=year) (MySQL + PHP)
 - 06/2006 Scientific conference at Dresden, Germany
 - 09/2006-12/2008 Postgraduate - SSU, Saratov, Russia - radiophysicist
 - 15/12/2006 First DSLR - Nikon D50
